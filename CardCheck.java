@@ -1,3 +1,6 @@
+//Checks if a credit card number is valid
+//Louise Howard
+
 import java.util.*;
 public class CardCheck
 {
